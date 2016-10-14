@@ -1,0 +1,29 @@
+body {
+  font-size: 36px;
+  font-family: "Georgia";
+}
+.special {
+
+}
+
+#bio {
+  color: #e69fba;
+}
+
+li a {
+  /*text decoration*/
+  text-decoration: none;
+}
+
+h1,h2 {
+  font-family: "Comic Sans MS";
+  color: blue;
+}
+
+li {
+  display: inline;
+}
+
+img {
+  //display: none;
+}
